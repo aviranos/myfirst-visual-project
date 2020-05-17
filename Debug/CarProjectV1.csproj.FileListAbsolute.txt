@@ -1,0 +1,13 @@
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\bin\Debug\CarProjectV1.exe.config
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\bin\Debug\CarProjectV1.exe
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\bin\Debug\CarProjectV1.pdb
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\obj\Debug\CarProjectV1.csprojAssemblyReference.cache
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\obj\Debug\CarProjectV1.Properties.Resources.resources
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\obj\Debug\CarProjectV1.csproj.GenerateResource.cache
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\obj\Debug\CarProjectV1.exe
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\obj\Debug\CarProjectV1.pdb
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\obj\Debug\CarProjectV1.loginform.resources
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\obj\Debug\CarProjectV1.MainForm.resources
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\obj\Debug\CarProjectV1.formSERCHcar.resources
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\obj\Debug\CarProjectV1.csproj.CoreCompileInputs.cache
+C:\Users\avira\source\repos\CarProjectV1\CarProjectV1\obj\Debug\CarProjectV1.lblComp.resources
